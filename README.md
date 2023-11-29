@@ -1,5 +1,3 @@
 # iamwxq
 
-## About me 😊
-
-to be finished...
+[C++] [Rust] [Go] [TypeScript]
