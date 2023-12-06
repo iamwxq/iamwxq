@@ -2,9 +2,9 @@
 
   ## Hi, there! 🫡
 
-  ### Programming Language I use
+  ### Tech I use
 
-  ![Programming Language I use](https://skillicons.dev/icons?i=cpp,python,rust,go,typescript)
+  ![Programming Language I use](https://skillicons.dev/icons?i=cpp,python,rust,go,typescript,deno)
 
   ### Tool I use
 
