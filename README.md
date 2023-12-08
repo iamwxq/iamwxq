@@ -6,6 +6,6 @@
 
   ![Tech I use](https://skillicons.dev/icons?i=deno,nodejs)
 
-  ![Tool I use](https://skillicons.dev/icons?i=vscode,visualstudio,neovim)
+  ![Tool I use](https://skillicons.dev/icons?i=vscode,neovim)
  
 </div>
