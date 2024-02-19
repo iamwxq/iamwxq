@@ -2,10 +2,10 @@
 
   ## Hi, there! 🫡
 
-  ![Programming Language I use](https://skillicons.dev/icons?i=cpp,python,rust,go,typescript)
+  ![Programming Language](https://skillicons.dev/icons?i=typescript,python,rust,go)
 
-  ![Tech I use](https://skillicons.dev/icons?i=nodejs,deno)
+  ![Tech](https://skillicons.dev/icons?i=nodejs,deno)
 
-  ![Tool I use](https://skillicons.dev/icons?i=vscode,neovim)
+  ![Tool](https://skillicons.dev/icons?i=vscode,neovim)
  
 </div>
