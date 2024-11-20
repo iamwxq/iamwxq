@@ -2,9 +2,7 @@
 
   ## Hi, there! 🫡
 
-  ![Programming Language](https://skillicons.dev/icons?i=typescript,python,rust,go)
-
-  ![Tech](https://skillicons.dev/icons?i=nodejs,deno)
+  ![Programming Language](https://skillicons.dev/icons?i=typescript,rust,python,go)
 
   ![Tool](https://skillicons.dev/icons?i=vscode,neovim)
  
